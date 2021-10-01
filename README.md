@@ -4,13 +4,13 @@
 
 
 <div align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="https://ibb.co/njXZmKz/Pics-Art-09-19-09-18-57.jpg""width="170" height="170"/>
+  <a href="https://ibb.co/HTNMxzY"><img src="https://i.ibb.co/dKrkLLY/Pics-Art-09-19-09-18-57.jpg""width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="Shadow-sir_v2" src="https://ibb.co/njXZmKz/-jinu sir-red?&style=for-the-badge"></a>
+<a href="#"><img title="jinu-sir_v.1" src="https://img.shields.io/badge/-jinu sir-red?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
-<a href="#"><img title="jinu" src="https://img.shields.io/badge/Shadow-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="jinu" src="https://img.shields.io/badge/jinu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 </div>
