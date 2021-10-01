@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <a href="https://ibb.co/HTNMxzY"><img src="https://i.ibb.co/dKrkLLY/Pics-Art-09-19-09-18-57.jpg""width="170" height="170"/>
+  <a href="https://ibb.co/HTNMxzY"><img src="https://ibb.co/HTNMxzY/Pics-Art-09-19-09-18-57.jpg""width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="jinu-sir_v.1" src="https://img.shields.io/badge/-jinu sir-red?&style=for-the-badge"></a>
 </p>
