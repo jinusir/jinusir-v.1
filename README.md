@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://ibb.co/HTNMxzY"><img src="https://ibb.co/HTNMxzY/Pics-Art-09-19-09-18-57.jpg""width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="jinu-sir_v.1" src="https://img.shields.io/badge/-jinu sir-red?&style=for-the-badge"></a>
+<a href="#"><img title="jinu-sir_v.1" src="https://images-2021-09-24-T214618-701/-jinu sir-red?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
